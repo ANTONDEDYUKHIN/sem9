@@ -1,0 +1,15 @@
+D:\Homework\conspect, seminar\06. C#\seminar9\examples\example68\bin\Debug\net6.0\example68.exe
+D:\Homework\conspect, seminar\06. C#\seminar9\examples\example68\bin\Debug\net6.0\example68.deps.json
+D:\Homework\conspect, seminar\06. C#\seminar9\examples\example68\bin\Debug\net6.0\example68.runtimeconfig.json
+D:\Homework\conspect, seminar\06. C#\seminar9\examples\example68\bin\Debug\net6.0\example68.dll
+D:\Homework\conspect, seminar\06. C#\seminar9\examples\example68\bin\Debug\net6.0\example68.pdb
+D:\Homework\conspect, seminar\06. C#\seminar9\examples\example68\obj\Debug\net6.0\example68.csproj.AssemblyReference.cache
+D:\Homework\conspect, seminar\06. C#\seminar9\examples\example68\obj\Debug\net6.0\example68.GeneratedMSBuildEditorConfig.editorconfig
+D:\Homework\conspect, seminar\06. C#\seminar9\examples\example68\obj\Debug\net6.0\example68.AssemblyInfoInputs.cache
+D:\Homework\conspect, seminar\06. C#\seminar9\examples\example68\obj\Debug\net6.0\example68.AssemblyInfo.cs
+D:\Homework\conspect, seminar\06. C#\seminar9\examples\example68\obj\Debug\net6.0\example68.csproj.CoreCompileInputs.cache
+D:\Homework\conspect, seminar\06. C#\seminar9\examples\example68\obj\Debug\net6.0\example68.dll
+D:\Homework\conspect, seminar\06. C#\seminar9\examples\example68\obj\Debug\net6.0\refint\example68.dll
+D:\Homework\conspect, seminar\06. C#\seminar9\examples\example68\obj\Debug\net6.0\example68.pdb
+D:\Homework\conspect, seminar\06. C#\seminar9\examples\example68\obj\Debug\net6.0\example68.genruntimeconfig.cache
+D:\Homework\conspect, seminar\06. C#\seminar9\examples\example68\obj\Debug\net6.0\ref\example68.dll
